@@ -8,7 +8,9 @@ A library (or a module/package) is a pre-written piece of software that you can 
 In this lesson, we will look at some of the key libraries used in Python for Data Science. 
 
 ## Objectives
+
 You will be able to:
+
 - Explain the purpose of common Python libraries in the data science toolkit
 
 
