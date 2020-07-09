@@ -14,7 +14,7 @@ You will be able to:
 
 ## Python Libraries for Data Science
 
-## Scientific Computation
+### Scientific Computation
 
 One of the key requirements for a Data Scientist is to be able to convert data into an easy-to-process format. Data, represented inside a computer, may become too large to be processed efficiently by Python's native lists and dictionaries and using Python's built-in methods. The following libraries add scientific computation abilities to Python for working efficiently with larger data sets. 
 
