@@ -23,7 +23,7 @@ One of the key requirements for a Data Scientist is to be able to convert data i
 
 In Python, the most fundamental package used for scientific computation is **NumPy** (Numerical Python). It provides lots of useful functionality for mathematical operations on vectors and matrices in Python. Matrix computation is the primary strength of NumPy. 
 
-<img src="images/numpy.jpg" width="250">
+<img src="images/numpy.jpeg" width="250">
 
 The library provides these mathematical operations using the NumPy **array** data type, which enhances performance and speeds up execution when compared to Python's default methods and data types. It contains among other things:
 
